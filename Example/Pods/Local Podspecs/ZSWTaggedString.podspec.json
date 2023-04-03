@@ -24,7 +24,7 @@
     "APPLICATION_EXTENSION_API_ONLY": "YES"
   },
   "module_map": "ZSWTaggedString/Classes/ZSWTaggedString.modulemap",
-  "swift_version": "5.0",
+  "swift_versions": "5.0",
   "subspecs": [
     {
       "name": "Core",
@@ -50,5 +50,6 @@
         "ZSWTaggedString/Private/**/*.swift"
       ]
     }
-  ]
+  ],
+  "swift_version": "5.0"
 }

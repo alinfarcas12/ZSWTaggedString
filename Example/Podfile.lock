@@ -1,9 +1,9 @@
 PODS:
   - Expecta (1.0.6)
-  - Nimble (8.0.1)
-  - OCMock (3.4.3)
-  - Quick (2.1.0)
-  - Specta (1.0.7)
+  - Nimble (10.0.0)
+  - OCMock (3.9.1)
+  - Quick (5.0.1)
+  - Specta (2.0.0)
   - ZSWTaggedString (4.2):
     - ZSWTaggedString/Core (= 4.2)
   - ZSWTaggedString/Core (4.2)
@@ -20,7 +20,7 @@ DEPENDENCIES:
   - ZSWTaggedString/Swift (from `../`)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - Expecta
     - Nimble
     - OCMock
@@ -33,12 +33,12 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
-  Nimble: 45f786ae66faa9a709624227fae502db55a8bdd0
-  OCMock: 43565190abc78977ad44a61c0d20d7f0784d35ab
-  Quick: 4be43f6634acfa727dd106bdf3929ce125ffa79d
-  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
-  ZSWTaggedString: 1a6aab3143188634c1e5dfe9383ce754c1fb5fe2
+  Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
+  OCMock: 9491e4bec59e0b267d52a9184ff5605995e74be8
+  Quick: 749aa754fd1e7d984f2000fe051e18a3a9809179
+  Specta: b79d84043684b35ffdc2680df578dc318ec2efc2
+  ZSWTaggedString: 67633f7eefedaac8d9f6cda0d51fbd186c689e99
 
-PODFILE CHECKSUM: 3e8e33953f0073437731a654c10dcc1880b9439e
+PODFILE CHECKSUM: 91b5e35ac6904458052df633ec6fe30b58b7e3ba
 
-COCOAPODS: 1.6.1
+COCOAPODS: 1.11.3
